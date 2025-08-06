@@ -1,0 +1,8 @@
+(
+        \name: "ESPNow",
+        \path: "ESPNow",
+        \summary: "OSC messages over serial from ESPNow based receivers.",
+        \author: "Bruno Gola",
+        \version: 0.1,
+        \since: "2025",
+)
