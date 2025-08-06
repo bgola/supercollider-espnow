@@ -1,5 +1,5 @@
 ESPNow {
-	var <addr, readRate=0.005;
+	var <serialport, <addr, readRate=0.005;
 	var <routine;
 
 	*new { arg port;
